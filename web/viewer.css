@@ -3546,7 +3546,7 @@ body.wait::before{
 }
 
 #viewerContainer{
-  overflow:auto;
+  overflow:auto scroll;
   position:absolute;
   inset:var(--toolbar-height) 0 0;
   outline:none;
